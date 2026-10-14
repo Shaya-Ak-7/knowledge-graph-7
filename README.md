@@ -1,7 +1,5 @@
 # Code2Graph
 
-> **Code2Graph is a temporary project name; the final name is still TBD.**
-
 Code2Graph turns a source tree into a navigable code-intelligence graph. Use it as an agent skill (the invocation depends on the host app), from the terminal, or as an MCP server. When the MCP server is running, its watcher keeps the graph current and records/heals broken references as files change.
 
 ## What it helps with
